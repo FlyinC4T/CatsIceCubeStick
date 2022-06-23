@@ -1,7 +1,8 @@
 # Cat's Ice Cube Stick! (Gorilla Tag Mod)
 Grab yourself a stick with an ice cube, and ultimately become the *coolest* player ever!
 
-*image*
+![Screenshot_15](https://user-images.githubusercontent.com/105093518/175349364-18cdaa44-1153-45df-a402-aa27a8208e41.png)
+
 #
 ### Details & Instructions
 - This mod will only work with **Utilla 1.5.0+** ([Latest Version](https://github.com/legoandmars/Utilla/releases/latest)).
